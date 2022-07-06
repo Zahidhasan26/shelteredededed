@@ -1,0 +1,166 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Quicksand:wght@400;500;600;700&display=swap');
+* {
+    font-family: 'Quicksand', sans-serif;
+}
+  .container {
+    width: 80%;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+}
+.container-low-width {
+    width: 60%;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+}
+.top {
+    background-image: url("/Assignment_i/images/donation13.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 120px;
+    padding-bottom: 120px;
+}
+.top-heading {
+    color: white;
+    font-size: 56px;
+}
+.top-text {
+    color: white;
+}
+p {
+    font-size: 18px;
+}
+.btn {
+    color: white;
+    font-size: 20px;
+    font-weight: 500;
+    background-color: tomato;
+    padding: 20px 40px;
+    border: none;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+.heading{
+    font-size: 42px;
+}
+.space-section {
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+.container-flex {
+    display: flex;
+    /* justify-content: center; */
+    justify-content: space-between;
+   } 
+.container-flex-form{
+    display: flex;
+    justify-content: center;
+}
+.price {
+    padding: 30px 0;
+   }
+.price-box {
+    background-color: #FAFAFA;
+    padding: 20px 30px;
+    border-radius: 2px;
+    margin-right: 10px;
+
+}
+.price-box-2 {
+    background-color: #FFEEEE;
+    border: 2px solid #FF5959;
+    border-radius: 5px;
+    margin-right: 10px;
+    padding: 20px 30px;
+}
+.price-text {
+    color: #707070;
+    font-size: 28px;
+    font-weight: 600;
+}
+.space {
+    padding-bottom: 20px;
+}
+.box-1 {
+    background-color: #4f9da610;
+    padding: 20px 10px;
+    text-align: left;
+    margin-right: 6px;
+}
+.box-2 {
+    background-color: #ff595910;
+    padding: 20px 10px;
+    text-align: left;
+    margin-left: 4px;
+    margin-right: 4px;
+}
+.box-3 {
+    background-color: #1e1e1e0e;
+    padding: 20px 10px;
+    text-align: left;
+    margin-left: 6px;
+}
+.box-heading {
+    font-size: 22px;
+}
+.input-num {
+    text-align: center;
+    margin-top: 40px;
+    padding: 5px 0;
+    width: 50%;
+    color: #B3B3B3;
+    font-size: 18px;
+    border-top: none;
+    border-bottom: 2px solid #B3B3B3;
+    border-left: none;
+    border-right: none;
+}
+
+.btn-form {
+    color: white;
+    font-size: 16px;
+    /* font-weight: 500; */
+    background-color: tomato;
+    padding: 10px 20px;
+    border: none;
+}
+.banner {
+    background-color: tomato;
+    padding: 40px 0;
+    color: white;
+}
+.banner-item-number {
+    font-size: 36px;
+}
+.banner-item-text {
+    font-size: 22px;
+}
+
+.input-email {
+    background-color: #D9D9D9;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 0;
+}
+.form-box {
+    padding-top: 60px;
+    padding-bottom: 60px;
+    background-color: #FFF4D6;
+}
+.footer {
+    background-color: #0B0D17;
+    margin-top: 100px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.footer-title {
+    color: tomato;
+    font-family: 'Lobster', cursive;
+    font-weight: 400px;
+}
+.footer-text {
+    color: #D9DBE1;
+    font-size: 14px;
+}
